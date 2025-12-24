@@ -1,0 +1,1 @@
+<form action='addPatient' method='post'>Name:<input name='name'>Age:<input name='age'>Disease:<input name='disease'><input type='submit'></form>

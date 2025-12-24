@@ -1,0 +1,1 @@
+<h2>Hospital Management System</h2><a href='addPatient.jsp'>Add Patient</a>

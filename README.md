@@ -61,35 +61,26 @@ Create a database
 Import hospital.sql
 
 3️⃣ Configure JDBC
-
 Update database credentials in the JDBC connection file:
 
 <img width="765" height="88" alt="Screenshot 2025-12-24 at 10 45 57 PM" src="https://github.com/user-attachments/assets/a7a7a8e5-2a85-410b-8f3a-510b00cd98dc" />
 
 4️⃣ Run the Application
-
 Open the project in IntelliJ IDEA / Eclipse
-
 Run the Main class
 
+
+
 🔐 Security Considerations
-
 Uses structured SQL queries
-
 Can be extended with encryption & access control
-
 Designed to support HIPAA/GDPR-ready EMR modules
 
+
 📈 Future Enhancements
-
 GUI using JavaFX / Swing
-
 Web version using Servlets & JSP
-
 Electronic Medical Records (EMR)
-
 Role-based access control (Admin, Doctor, Staff)
-
 Cloud deployment (AWS / Azure / GCP)
-
 Microservices architecture for scalability
